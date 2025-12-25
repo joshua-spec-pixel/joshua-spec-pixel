@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ivaan Joshua, a high-spirited developer building my skills across multiple domains.
+I'm Joshua, a high-spirited developer building my skills across multiple domains.
 
 ### 🚀 What I'm Up To
 - Currently deepening my knowledge of C programming
